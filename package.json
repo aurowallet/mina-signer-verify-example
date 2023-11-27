@@ -1,0 +1,15 @@
+{
+  "name": "mina-signer-verify-example",
+  "version": "1.0.0",
+  "description": "mina signer verify messge in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mina-signer": "2.1.1"
+  }
+}
